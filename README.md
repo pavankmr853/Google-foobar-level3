@@ -1,4 +1,4 @@
-# googl-foobar-level-3
+# google-foobar-level-3
 # sum-1
 The Grandest Staircase Of Them All
 ==================================
